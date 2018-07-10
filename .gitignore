@@ -57,6 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
-.cache/
-public
-yarn-error.log
+# next.js build output
+.next
