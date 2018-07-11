@@ -1,7 +1,7 @@
 ---
-path: /blog/my-first-blog
+path: /blog/blog-post-2
 date: '2018-07-10'
-title: My First Blog
+title: 'Blog Post Title #2'
 ---
 Manor House Publishing Incorporated is a small Canadian publishing company, established in 1998 and based in the Ancaster neighborhood of Hamilton Ontario. It publishes mostly in soft-cover books by Canadian authors, many previously unpublished. These books vary in subjects, including non-fiction, fiction, biography, business, New Age and poetry. Kumiko Takahashi (1982) is a Japanese writer and former rock band drummer. Tierra Redonda Mountain is a mountain in northwestern San Luis Obispo County, California.
 
