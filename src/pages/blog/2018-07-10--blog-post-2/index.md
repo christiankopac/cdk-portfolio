@@ -2,6 +2,8 @@
 path: /blog/blog-post-1
 date: '2018-07-03'
 title: 'Blog Post Title #1'
+tags: ["tag1", "tag2", "tag3"]
+excerpt: "Amazing first blog post"
 ---
 Michael Krasnow (April 27, 1969 – October 9, 1997) was an American author famous for his autobiography, My Life as a Male Anorexic, describing his life with his severe case of anorexia nervosa. Krasnow weighed 115 pounds when he was 16, but throughout most of his adult life maintained a weight of around 75 lbs. He stood at 5'9", giving him a BMI of 11.1. He hoped his book would give strength to other male anorexics. Krasnow weighed 64 pounds when he died at age 28.
 

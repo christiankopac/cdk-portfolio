@@ -1,20 +1,24 @@
 module.exports = {
+    siteMetadata: {
+        title: `Christian Kopac - Fullstack Developer`
+    },
     plugins: [
-        `gatsby-plugin-netlify-cms`,
+        `gatsby-plugin-react-helmet`,
+        `gatsby-transformer-remark`,
         {
             resolve: `gatsby-source-filesystem`,
             options: {
-                path: `${__dirname}/pages/blog/`,
+                path: `${__dirname}/src/pages/blog`,
                 name: 'blog',
             },
         },
         {
             resolve: `gatsby-source-filesystem`,
             options: {
-                path: `${__dirname}/pages/work/`,
+                path: `${__dirname}/src/pages/work`,
                 name: 'work'
             }
         },
-        `gatsby-transformer-remark`,
+        `gatsby-plugin-netlify-cms`,
     ],
 }
