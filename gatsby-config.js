@@ -4,9 +4,16 @@ module.exports = {
         {
             resolve: `gatsby-source-filesystem`,
             options: {
-                path: `${__dirname}/blog`,
+                path: `${__dirname}/pages/blog/`,
                 name: 'blog',
             },
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                path: `${__dirname}/pages/work/`,
+                name: 'work'
+            }
         },
         `gatsby-transformer-remark`,
     ],
