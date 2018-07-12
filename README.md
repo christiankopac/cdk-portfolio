@@ -2,7 +2,54 @@
 
 ## Inspiration
 
+- [Gatsby Sites](https://github.com/gatsbyjs/gatsby)
+
 - https://aninterestingday.com/
+- http://www.jessievan.com/index.html
+- http://cranky-edison-12166d.netlify.com/about
+
+### Design Vault
+
+### Layout: Nice & FWD
+
+- https://vibertthio.com/portfolio/
+  https://github.com/vibertthio/portfolio
+- http://digitalpsychology.io/
+  https://github.com/danistefanovic/digitalpsychology.io
+- https://www.michelemazzucco.it/
+  https://github.com/michelemazzucco/michelemazzucco.it
+- https://johnmeguerian.com/
+  https://github.com/jmegs/portfolio
+- https://canellariccardo.it/
+  https://github.com/thecreazy/canellariccardo.it
+
+### Layout: Basic & Functional
+
+- http://jamiehenson.com/
+- https://www.gabrieladorf.com/
+- https://fabianschultz.com/
+- https://www.knw.io/
+- https://k-create.com/
+- https://www.donarita.co.uk/
+- https://iammatthias.com/
+- https://rafael.do/
+- https://alexpate.uk/
+- https://www.youfoundron.com/
+
+### Layout: Content Centred
+
+- https://dlbn.co/en/
+  https://github.com/dalbinaco/dlbn.co
+- https://songwang.io/
+  https://github.com/wangsongiam/songwang.io
+- https://oliverbenns.com/
+  https://github.com/oliverbenns/oliverbenns.com
+
+- http://bartvanderwaerden.com/
+- https://www.learnstorybook.com/
+- https://storybook.js.org/
+- https://mannequin.io/
+- https://heml.io/
 
 ## Run Scripts
 
@@ -51,6 +98,7 @@
 - TODO: Read https://www.gatsbyjs.org/blog/2017-10-01-migrating-my-blog-from-hexo-to-gatsby/
 
 ## TODO
+
 - TODO: filter query by path /work
 
 ```graphql

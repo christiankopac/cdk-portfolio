@@ -1,0 +1,185 @@
+[{
+  "title": "Agata - Home Assistant",
+  "category": [ "design", "code" ],
+  "client": "Agata",
+  "year": "2017",
+  "featured": true,
+  "url": "https://www.behance.net/gallery/62481525/Agata-Home-Automation",
+  "image": {
+    "src": "/images/works/agata/agata-home-assistant.png",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/agata/agata-home-assistant-square.jpg 1x",
+        "/images/works/agata/agata-home-assistant-square-2x.jpg 2x",
+        "/images/works/agata/agata-home-assistant-square-3x.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/agata/agata-home-assistant.jpg 1x",
+        "/images/works/agata/agata-home-assistant-2x.jpg 2x",
+        "/images/works/agata/agata-home-assistant-3x.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "App Quality",
+  "category": [ "design" ],
+  "collaborators": [ "Incode" ],
+  "client": "App Quality",
+  "year": "2017",
+  "featured": true,
+  "image": {
+    "src": "/images/works/app-quality/app-quality-website.png",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/app-quality/app-quality-website-square.jpg 1x",
+        "/images/works/app-quality/app-quality-website-square-2x.jpg 2x",
+        "/images/works/app-quality/app-quality-website-square-3x.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/app-quality/app-quality-website.jpg 1x",
+        "/images/works/app-quality/app-quality-website-2x.jpg 2x",
+        "/images/works/app-quality/app-quality-website-3x.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "Enco Website",
+  "category": [ "design" ],
+  "client": "Net Magazine",
+  "year": "2016",
+  "featured": true,
+  "url": "https://dribbble.com/shots/3142361-Enco-Extreme-climbing-centers",
+  "image": {
+    "src": "/images/works/enco/enco-website.png",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/enco/enco-website-square.jpg 1x",
+        "/images/works/enco/enco-website-square-2x.jpg 2x",
+        "/images/works/enco/enco-website-square-3x.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/enco/enco-website.jpg 1x",
+        "/images/works/enco/enco-website-2x.jpg 2x",
+        "/images/works/enco/enco-website-3x.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "Kenzai's Mobile Apps",
+  "category": [ "design" ],
+  "client": "Kenzai Inc.",
+  "year": "2016",
+  "featured": true,
+  "image": {
+    "src": "/images/works/kenzai/kenzai-mobile-apps.png",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/kenzai/kenzai-mobile-apps-square.jpg 1x",
+        "/images/works/kenzai/kenzai-mobile-apps-square-2x.jpg 2x",
+        "/images/works/kenzai/kenzai-mobile-apps-square-3x.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/kenzai/kenzai-mobile-apps.jpg 1x",
+        "/images/works/kenzai/kenzai-mobile-apps-2x.jpg 2x",
+        "/images/works/kenzai/kenzai-mobile-apps-3x.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "Fifty Finance - website",
+  "category": [ "design" ],
+  "client": "Fifty Finance",
+  "collaborators": ["Incode"],
+  "year": "2017",
+  "featured": false
+},{
+  "title": "Savi - website",
+  "category": [ "design", "development" ],
+  "client": "Savi srl",
+  "url": "http://www.saviweb.com/",
+  "collaborators": ["One Farm Design"],
+  "year": "2017",
+  "featured": false
+},{
+  "title": "FreeJourn",
+  "category": [ "design", "development" ],
+  "client": "FreeJourn",
+  "collaborators": ["Incode"],
+  "url": "https://www.freejourn.com/it/pages/static/how_it_works",
+  "year": "2017",
+  "featured": false
+},{
+  "title": "Kenzai's Website",
+  "category": [ "design" ],
+  "client": "Kenzai Inc.",
+  "year": "2015",
+  "url": "https://dribbble.com/shots/2714698-Health-service-website/attachments/549057",
+  "featured": false
+},{
+  "title": "BEE pro",
+  "category": [ "design", "code" ],
+  "client": "MailUp",
+  "collaborators": ["MailUp"],
+  "url": "https://pro.beefree.io/login",
+  "year": "2016",
+  "featured": false
+},{
+  "title": "CREW Cremonesi - website",
+  "category": [ "design", "code" ],
+  "client": "CREW Cremonesi",
+  "collaborators": ["Incode"],
+  "url": "http://crew.it/",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Manfrotto School Of Xcellence",
+  "category": [ "design", "code" ],
+  "client": "Manfrotto",
+  "collaborators": ["Incode"],
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Beast Technologies - website",
+  "category": [ "code" ],
+  "client": "Beast Technologies",
+  "collaborators": ["Incode"],
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Isolconfort",
+  "category": [ "design", "code" ],
+  "client": "Isolconfort",
+  "collaborators": ["Incode"],
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Cobox - website",
+  "category": [ "design", "code" ],
+  "client": "CRIT",
+  "collaborators": ["Incode"],
+  "url": "https://dribbble.com/shots/1705611-Coworking-Space",
+  "year": "2014",
+  "featured": false
+},{
+  "title": "La Pagoda",
+  "category": [ "design", "code" ],
+  "client": "La Pagoda",
+  "collaborators": ["asaquattrocento"],
+  "url": "https://dribbble.com/shots/1655479-Ethnic-furniture-website",
+  "year": "2014",
+  "featured": false
+},{
+  "title": "Half House - website",
+  "category": [ "design", "code" ],
+  "client": "One Farm Design",
+  "year": "2014",
+  "featured": false
+}]
