@@ -1,4 +1,4 @@
-# CDK's Portfolio
+# 🚀 Learning Gatsby 
 
 ## Inspiration
 
