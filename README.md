@@ -1,5 +1,7 @@
 # 🚀 Learning Gatsby 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christiankopac/christiankopac.com.svg)](https://greenkeeper.io/)
+
 ## Inspiration
 
 - [Gatsby Sites](https://github.com/gatsbyjs/gatsby)
